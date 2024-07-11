@@ -1,4 +1,4 @@
-VRINDA STORE DATA ANALYSIS USING EXCEL
+# VRINDA STORE DATA ANALYSIS USING EXCEL
 
 ## <u>Project Objective</u> 🎯
 Fashion Store wants to create an annual sales report for 2023 to understand their customers and strategize for increased sales in 2024. Implemented an **advanced Fashion Store Dashboard using EXCEL**.
